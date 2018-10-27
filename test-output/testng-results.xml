@@ -1,0 +1,498 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="2" ignored="0" total="16" passed="14">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="94982" started-at="2018-10-14T21:41:10Z" finished-at="2018-10-14T21:42:45Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="94982" started-at="2018-10-14T21:41:10Z" finished-at="2018-10-14T21:42:45Z">
+      <class name="com.wolfram.testcases.wolframAlphaTest">
+        <test-method status="PASS" signature="setPage()[pri:0, instance:com.wolfram.testcases.wolframAlphaTest@e320068]" name="setPage" is-config="true" duration-ms="7" started-at="2018-10-14T21:41:10Z" finished-at="2018-10-14T21:41:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setPage -->
+        <test-method status="PASS" signature="loadPage()[pri:0, instance:com.wolfram.testcases.wolframAlphaTest@e320068]" name="loadPage" is-config="true" duration-ms="2777" started-at="2018-10-14T21:41:10Z" finished-at="2018-10-14T21:41:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadPage -->
+        <test-method status="PASS" signature="testInput(java.lang.String, java.lang.String)[pri:0, instance:com.wolfram.testcases.wolframAlphaTest@e320068]" name="testInput" duration-ms="1573" started-at="2018-10-14T21:41:12Z" data-provider="testInputData" finished-at="2018-10-14T21:41:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[10-2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[8]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testInput -->
+        <test-method status="PASS" signature="closeWindow()[pri:0, instance:com.wolfram.testcases.wolframAlphaTest@e320068]" name="closeWindow" is-config="true" duration-ms="113" started-at="2018-10-14T21:41:14Z" finished-at="2018-10-14T21:41:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeWindow -->
+        <test-method status="PASS" signature="loadPage()[pri:0, instance:com.wolfram.testcases.wolframAlphaTest@e320068]" name="loadPage" is-config="true" duration-ms="2421" started-at="2018-10-14T21:41:14Z" finished-at="2018-10-14T21:41:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadPage -->
+        <test-method status="PASS" signature="testInput(java.lang.String, java.lang.String)[pri:0, instance:com.wolfram.testcases.wolframAlphaTest@e320068]" name="testInput" duration-ms="1603" started-at="2018-10-14T21:41:17Z" data-provider="testInputData" finished-at="2018-10-14T21:41:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[8*13]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[104]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testInput -->
+        <test-method status="PASS" signature="closeWindow()[pri:0, instance:com.wolfram.testcases.wolframAlphaTest@e320068]" name="closeWindow" is-config="true" duration-ms="110" started-at="2018-10-14T21:41:18Z" finished-at="2018-10-14T21:41:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeWindow -->
+        <test-method status="PASS" signature="loadPage()[pri:0, instance:com.wolfram.testcases.wolframAlphaTest@e320068]" name="loadPage" is-config="true" duration-ms="2630" started-at="2018-10-14T21:41:18Z" finished-at="2018-10-14T21:41:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadPage -->
+        <test-method status="PASS" signature="testInput(java.lang.String, java.lang.String)[pri:0, instance:com.wolfram.testcases.wolframAlphaTest@e320068]" name="testInput" duration-ms="2092" started-at="2018-10-14T21:41:21Z" data-provider="testInputData" finished-at="2018-10-14T21:41:23Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[104/2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[52]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testInput -->
+        <test-method status="PASS" signature="closeWindow()[pri:0, instance:com.wolfram.testcases.wolframAlphaTest@e320068]" name="closeWindow" is-config="true" duration-ms="110" started-at="2018-10-14T21:41:23Z" finished-at="2018-10-14T21:41:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeWindow -->
+        <test-method status="PASS" signature="loadPage()[pri:0, instance:com.wolfram.testcases.wolframAlphaTest@e320068]" name="loadPage" is-config="true" duration-ms="2516" started-at="2018-10-14T21:41:23Z" finished-at="2018-10-14T21:41:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadPage -->
+        <test-method status="PASS" signature="testInput(java.lang.String, java.lang.String)[pri:0, instance:com.wolfram.testcases.wolframAlphaTest@e320068]" name="testInput" duration-ms="2119" started-at="2018-10-14T21:41:26Z" data-provider="testInputData" finished-at="2018-10-14T21:41:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[(1113+7)-3*18/2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1093]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testInput -->
+        <test-method status="PASS" signature="closeWindow()[pri:0, instance:com.wolfram.testcases.wolframAlphaTest@e320068]" name="closeWindow" is-config="true" duration-ms="107" started-at="2018-10-14T21:41:28Z" finished-at="2018-10-14T21:41:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeWindow -->
+        <test-method status="PASS" signature="loadPage()[pri:0, instance:com.wolfram.testcases.wolframAlphaTest@e320068]" name="loadPage" is-config="true" duration-ms="2203" started-at="2018-10-14T21:41:28Z" finished-at="2018-10-14T21:41:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadPage -->
+        <test-method status="PASS" signature="testInput(java.lang.String, java.lang.String)[pri:0, instance:com.wolfram.testcases.wolframAlphaTest@e320068]" name="testInput" duration-ms="1604" started-at="2018-10-14T21:41:30Z" data-provider="testInputData" finished-at="2018-10-14T21:41:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1.4+3.99999]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[5.39999]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testInput -->
+        <test-method status="PASS" signature="closeWindow()[pri:0, instance:com.wolfram.testcases.wolframAlphaTest@e320068]" name="closeWindow" is-config="true" duration-ms="108" started-at="2018-10-14T21:41:32Z" finished-at="2018-10-14T21:41:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeWindow -->
+        <test-method status="PASS" signature="loadPage()[pri:0, instance:com.wolfram.testcases.wolframAlphaTest@e320068]" name="loadPage" is-config="true" duration-ms="4127" started-at="2018-10-14T21:41:32Z" finished-at="2018-10-14T21:41:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadPage -->
+        <test-method status="PASS" signature="testInput(java.lang.String, java.lang.String)[pri:0, instance:com.wolfram.testcases.wolframAlphaTest@e320068]" name="testInput" duration-ms="1632" started-at="2018-10-14T21:41:36Z" data-provider="testInputData" finished-at="2018-10-14T21:41:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[5.3999999999999-1.357]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[4.0429999999999]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testInput -->
+        <test-method status="PASS" signature="closeWindow()[pri:0, instance:com.wolfram.testcases.wolframAlphaTest@e320068]" name="closeWindow" is-config="true" duration-ms="107" started-at="2018-10-14T21:41:38Z" finished-at="2018-10-14T21:41:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeWindow -->
+        <test-method status="PASS" signature="loadPage()[pri:0, instance:com.wolfram.testcases.wolframAlphaTest@e320068]" name="loadPage" is-config="true" duration-ms="2039" started-at="2018-10-14T21:41:38Z" finished-at="2018-10-14T21:41:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadPage -->
+        <test-method status="PASS" signature="testInput(java.lang.String, java.lang.String)[pri:0, instance:com.wolfram.testcases.wolframAlphaTest@e320068]" name="testInput" duration-ms="1648" started-at="2018-10-14T21:41:40Z" data-provider="testInputData" finished-at="2018-10-14T21:41:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[(-3)*(-4.5)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[13.5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testInput -->
+        <test-method status="PASS" signature="closeWindow()[pri:0, instance:com.wolfram.testcases.wolframAlphaTest@e320068]" name="closeWindow" is-config="true" duration-ms="108" started-at="2018-10-14T21:41:41Z" finished-at="2018-10-14T21:41:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeWindow -->
+        <test-method status="PASS" signature="loadPage()[pri:0, instance:com.wolfram.testcases.wolframAlphaTest@e320068]" name="loadPage" is-config="true" duration-ms="2460" started-at="2018-10-14T21:41:41Z" finished-at="2018-10-14T21:41:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadPage -->
+        <test-method status="PASS" signature="testInput(java.lang.String, java.lang.String)[pri:0, instance:com.wolfram.testcases.wolframAlphaTest@e320068]" name="testInput" duration-ms="1608" started-at="2018-10-14T21:41:44Z" data-provider="testInputData" finished-at="2018-10-14T21:41:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[-10/5]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[-2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testInput -->
+        <test-method status="PASS" signature="closeWindow()[pri:0, instance:com.wolfram.testcases.wolframAlphaTest@e320068]" name="closeWindow" is-config="true" duration-ms="110" started-at="2018-10-14T21:41:46Z" finished-at="2018-10-14T21:41:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeWindow -->
+        <test-method status="PASS" signature="loadPage()[pri:0, instance:com.wolfram.testcases.wolframAlphaTest@e320068]" name="loadPage" is-config="true" duration-ms="2854" started-at="2018-10-14T21:41:46Z" finished-at="2018-10-14T21:41:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadPage -->
+        <test-method status="PASS" signature="testInput(java.lang.String, java.lang.String)[pri:0, instance:com.wolfram.testcases.wolframAlphaTest@e320068]" name="testInput" duration-ms="1626" started-at="2018-10-14T21:41:48Z" data-provider="testInputData" finished-at="2018-10-14T21:41:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[0+0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testInput -->
+        <test-method status="PASS" signature="closeWindow()[pri:0, instance:com.wolfram.testcases.wolframAlphaTest@e320068]" name="closeWindow" is-config="true" duration-ms="108" started-at="2018-10-14T21:41:50Z" finished-at="2018-10-14T21:41:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeWindow -->
+        <test-method status="PASS" signature="loadPage()[pri:0, instance:com.wolfram.testcases.wolframAlphaTest@e320068]" name="loadPage" is-config="true" duration-ms="2656" started-at="2018-10-14T21:41:50Z" finished-at="2018-10-14T21:41:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadPage -->
+        <test-method status="PASS" signature="testInput(java.lang.String, java.lang.String)[pri:0, instance:com.wolfram.testcases.wolframAlphaTest@e320068]" name="testInput" duration-ms="2232" started-at="2018-10-14T21:41:53Z" data-provider="testInputData" finished-at="2018-10-14T21:41:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[0*3434343434]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testInput -->
+        <test-method status="PASS" signature="closeWindow()[pri:0, instance:com.wolfram.testcases.wolframAlphaTest@e320068]" name="closeWindow" is-config="true" duration-ms="109" started-at="2018-10-14T21:41:55Z" finished-at="2018-10-14T21:41:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeWindow -->
+        <test-method status="PASS" signature="loadPage()[pri:0, instance:com.wolfram.testcases.wolframAlphaTest@e320068]" name="loadPage" is-config="true" duration-ms="2161" started-at="2018-10-14T21:41:55Z" finished-at="2018-10-14T21:41:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadPage -->
+        <test-method status="FAIL" signature="testInput(java.lang.String, java.lang.String)[pri:0, instance:com.wolfram.testcases.wolframAlphaTest@e320068]" name="testInput" duration-ms="1722" started-at="2018-10-14T21:41:57Z" data-provider="testInputData" finished-at="2018-10-14T21:41:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[9/0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[∞]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError
+at com.wolfram.testcases.wolframAlphaTest.testInput(wolframAlphaTest.java:74)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:498)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:580)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:716)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:988)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testInput -->
+        <test-method status="PASS" signature="closeWindow()[pri:0, instance:com.wolfram.testcases.wolframAlphaTest@e320068]" name="closeWindow" is-config="true" duration-ms="77" started-at="2018-10-14T21:41:59Z" finished-at="2018-10-14T21:41:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeWindow -->
+        <test-method status="PASS" signature="loadPage()[pri:0, instance:com.wolfram.testcases.wolframAlphaTest@e320068]" name="loadPage" is-config="true" duration-ms="2253" started-at="2018-10-14T21:41:59Z" finished-at="2018-10-14T21:42:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadPage -->
+        <test-method status="PASS" signature="testInput(java.lang.String, java.lang.String)[pri:0, instance:com.wolfram.testcases.wolframAlphaTest@e320068]" name="testInput" duration-ms="2179" started-at="2018-10-14T21:42:01Z" data-provider="testInputData" finished-at="2018-10-14T21:42:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sin(30)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1/2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testInput -->
+        <test-method status="PASS" signature="closeWindow()[pri:0, instance:com.wolfram.testcases.wolframAlphaTest@e320068]" name="closeWindow" is-config="true" duration-ms="109" started-at="2018-10-14T21:42:04Z" finished-at="2018-10-14T21:42:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeWindow -->
+        <test-method status="PASS" signature="loadPage()[pri:0, instance:com.wolfram.testcases.wolframAlphaTest@e320068]" name="loadPage" is-config="true" duration-ms="2293" started-at="2018-10-14T21:42:04Z" finished-at="2018-10-14T21:42:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadPage -->
+        <test-method status="PASS" signature="testInput(java.lang.String, java.lang.String)[pri:0, instance:com.wolfram.testcases.wolframAlphaTest@e320068]" name="testInput" duration-ms="1559" started-at="2018-10-14T21:42:06Z" data-provider="testInputData" finished-at="2018-10-14T21:42:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2^10]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1024]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testInput -->
+        <test-method status="PASS" signature="closeWindow()[pri:0, instance:com.wolfram.testcases.wolframAlphaTest@e320068]" name="closeWindow" is-config="true" duration-ms="106" started-at="2018-10-14T21:42:08Z" finished-at="2018-10-14T21:42:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeWindow -->
+        <test-method status="PASS" signature="loadPage()[pri:0, instance:com.wolfram.testcases.wolframAlphaTest@e320068]" name="loadPage" is-config="true" duration-ms="2350" started-at="2018-10-14T21:42:08Z" finished-at="2018-10-14T21:42:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadPage -->
+        <test-method status="FAIL" signature="testInput(java.lang.String, java.lang.String)[pri:0, instance:com.wolfram.testcases.wolframAlphaTest@e320068]" name="testInput" duration-ms="14323" started-at="2018-10-14T21:42:10Z" data-provider="testInputData" finished-at="2018-10-14T21:42:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[solve x^3 - 4x^2 + 6x - 24 = 0 over the reals]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[x = 4]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.TimeoutException">
+            <message>
+              <![CDATA[Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='Result']/section/div[1]/div/img' (tried for 10 second(s) with 500 milliseconds interval)]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='Result']/section/div[1]/div/img' (tried for 10 second(s) with 500 milliseconds interval)
+at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:113)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:283)
+at com.wolfram.testcases.pageObject.waitVisible(pageObject.java:78)
+at com.wolfram.testcases.wolframAlphaTest.testInput(wolframAlphaTest.java:72)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:498)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:580)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:716)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:988)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+Caused by: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='Result']/section/div[1]/div/img"}
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.42.591059 (a3d9684d10d61aa0c45f6723b327283be1ebaad8),platform=Mac OS X 10.13.6 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:13:22.693Z'
+System info: host: 'ZhenglinghedeMacBook-Pro.local', ip: 'fe80:0:0:0:86:4ca5:fc8d:8ad6%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.6', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.42.591059 (a3d9684d10d61a..., userDataDir: /var/folders/wx/q4f5rh0x31q...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:52518}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 69.0.3497.100, webStorageEnabled: true}
+Session ID: e27e9e5553a2723980fc89a629f20d5a
+*** Element info: {Using=xpath, value=//*[@id='Result']/section/div[1]/div/img}
+at sun.reflect.GeneratedConstructorAccessor15.newInstance(Unknown Source)
+at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)
+at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)
+at org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)
+at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)
+at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:548)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:322)
+at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:424)
+at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:314)
+at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+at com.sun.proxy.$Proxy12.isDisplayed(Unknown Source)
+at org.openqa.selenium.support.ui.ExpectedConditions.elementIfVisible(ExpectedConditions.java:315)
+at org.openqa.selenium.support.ui.ExpectedConditions.access$100(ExpectedConditions.java:44)
+at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:301)
+at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:298)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:260)
+... 27 more
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.TimeoutException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testInput -->
+        <test-method status="PASS" signature="closeWindow()[pri:0, instance:com.wolfram.testcases.wolframAlphaTest@e320068]" name="closeWindow" is-config="true" duration-ms="116" started-at="2018-10-14T21:42:24Z" finished-at="2018-10-14T21:42:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeWindow -->
+        <test-method status="PASS" signature="loadPage()[pri:0, instance:com.wolfram.testcases.wolframAlphaTest@e320068]" name="loadPage" is-config="true" duration-ms="2706" started-at="2018-10-14T21:42:24Z" finished-at="2018-10-14T21:42:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadPage -->
+        <test-method status="PASS" signature="testInput(java.lang.String, java.lang.String)[pri:0, instance:com.wolfram.testcases.wolframAlphaTest@e320068]" name="testInput" duration-ms="2197" started-at="2018-10-14T21:42:27Z" data-provider="testInputData" finished-at="2018-10-14T21:42:29Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[219 to binary]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[11011011_2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testInput -->
+        <test-method status="PASS" signature="closeWindow()[pri:0, instance:com.wolfram.testcases.wolframAlphaTest@e320068]" name="closeWindow" is-config="true" duration-ms="108" started-at="2018-10-14T21:42:29Z" finished-at="2018-10-14T21:42:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeWindow -->
+        <test-method status="PASS" signature="loadPage()[pri:0, instance:com.wolfram.testcases.wolframAlphaTest@e320068]" name="loadPage" is-config="true" duration-ms="2524" started-at="2018-10-14T21:42:29Z" finished-at="2018-10-14T21:42:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadPage -->
+        <test-method status="PASS" signature="testQuery()[pri:0, instance:com.wolfram.testcases.wolframAlphaTest@e320068]" name="testQuery" duration-ms="12475" started-at="2018-10-14T21:42:32Z" finished-at="2018-10-14T21:42:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testQuery -->
+        <test-method status="PASS" signature="closeWindow()[pri:0, instance:com.wolfram.testcases.wolframAlphaTest@e320068]" name="closeWindow" is-config="true" duration-ms="113" started-at="2018-10-14T21:42:44Z" finished-at="2018-10-14T21:42:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeWindow -->
+        <test-method status="PASS" signature="quitDriver()[pri:0, instance:com.wolfram.testcases.wolframAlphaTest@e320068]" name="quitDriver" is-config="true" duration-ms="58" started-at="2018-10-14T21:42:45Z" finished-at="2018-10-14T21:42:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitDriver -->
+      </class> <!-- com.wolfram.testcases.wolframAlphaTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
